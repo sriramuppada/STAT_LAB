@@ -1,0 +1,14 @@
+---
+title: "Myself"
+format: html
+html: default
+pdf: default
+---
+
+My academic voyage has revolved around algorithms, coding languages, Data Sciences, and Computer Networks. My interest in AI, IT, Data Sciences, Big Data, Deep Learning, and Machine Learning has motivated me to explore the field of data analytics engineering. My main goal is to gain comprehensive and practical knowledge in areas such as Data Visualization, Analytics, and Big Data within this course.
+
+My skill set includes proficiency in programming languages like SQL, Python, C, and Py Spark, accompanied by a foundational understanding of R programming and visualization. In my undergraduate studies, I delved into SQL and Python programming fundamentals, focusing on data handling and compatibility. This knowledge was practically applied in a project where I developed a "Fashion Designing Web Application Using Deep Learning Models (GANs)" using Python packages. Additionally, I developed a few other projects in IOT, Voter Fraud Detection Using Facial Recognition, and Stock Price Prediction Using LSTM showcasing my adaptability in programming and various web-based languages.
+
+I'm eager to explore the depths of statistics as we collectively embark on this knowledge journey. Together we learn, together we grow. I have queries and concerns about Linux, AWS, and other cloud services, and I'm keen on gaining deeper knowledge in Data Visualization Analytics, and Big Data. I'm thrilled to be back in school! Looking forward to getting to know you all and studying together this semester. Feel free to reach out or connect!
+
+![**Good Day!!**](Sai SriRam Photo COMPRESSED.jpg){fig-align="left" width="261"}

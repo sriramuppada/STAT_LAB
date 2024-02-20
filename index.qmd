@@ -1,0 +1,14 @@
+---
+title: "Sai Sriram Uppada"
+editor: visual
+pdf: default
+html: default
+editor_options: 
+  chunk_output_type: inline
+---
+
+**Hello everyone!!**
+
+I'm ' Sai Sriram Uppada ', and I prefer to go by the name ' Ram ', and I recently completed my undergraduate studies in Information Technology at Gayatri Vidya Parishad College Of Engineering (A), Visakhapatnam, Andhra Pradesh, India in the year 2023. Currently, I'm filled with excitement as I embark on my master's journey in data analytics engineering.
+
+![](Sai%20SriRam%20Photo%20COMPRESSED.jpg){fig-align="left" width="261"}
